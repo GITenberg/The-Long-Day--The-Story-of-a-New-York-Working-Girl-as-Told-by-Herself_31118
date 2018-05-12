@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35034'
     url: http://www.gutenberg.org/2009/agents/35034
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31118#The-Long-Day--The-Story-of-a-New-York-Working-Girl-as-Told-by-Herself
 gutenberg_issued: '2010-01-29'
 gutenberg_type: Text
 identifiers:
