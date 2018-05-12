@@ -1,0 +1,26 @@
+_repo: The-Long-Day--The-Story-of-a-New-York-Working-Girl-as-Told-by-Herself_31118
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richardson, Dorothy
+    birthdate: 1882
+    gutenberg_agent_id: '35034'
+    url: http://www.gutenberg.org/2009/agents/35034
+description: ''
+gutenberg_issued: '2010-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31118'
+  lccn: 05029965
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Employment -- New York (State) -- New York -- History -- Sources'
+- !lcc 'HD'
+title: 'The Long Day: The Story of a New York Working Girl, as Told by Herself'
+url: http://www.gutenberg.org/ebooks/31118
